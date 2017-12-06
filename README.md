@@ -71,4 +71,14 @@ https://github.com/eventbrite/britecharts
 24. 对比开源项目在github上的star图
 https://github.com/timqian/star-history
 
+25. 命名参考网站
+http://unbug.github.io/codelf/
+
+26. 网站性能测试
+http://www.webpagetest.org/
+
+27. 跨浏览器测试
+http://browserling.com
+
+
 
