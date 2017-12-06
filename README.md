@@ -1,3 +1,4 @@
+## Table Content
 1. 捕获页面对比DOM的改变
 地址：https://github.com/fouber/page-monitor
 
@@ -46,6 +47,28 @@ https://github.com/staltz/rxmarbles
 16.  react状态管理
 https://github.com/mobxjs/mobx
 
+17. html压缩
+https://github.com/kangax/html-minifier
 
+18. mock server
+https://github.com/typicode/json-server#add-routes
+
+19. json数据库
+https://github.com/typicode/lowdb
+
+20. mock数据生成
+https://github.com/Marak/faker.js
+
+21. react服务端渲染
+https://github.com/zeit/next.js/
+
+22. H5的canvas绘图库
+https://github.com/kangax/fabricjs.com
+
+23. 基于D3的客户端图表库
+https://github.com/eventbrite/britecharts
+
+24. 对比开源项目在github上的star图
+https://github.com/timqian/star-history
 
 
