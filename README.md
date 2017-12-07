@@ -80,5 +80,6 @@ http://www.webpagetest.org/
 27. 跨浏览器测试
 http://browserling.com
 
-
+28. 打包工具
+https://github.com/parcel-bundler/parcel
 
