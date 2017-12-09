@@ -86,3 +86,6 @@ https://github.com/parcel-bundler/parcel
 29. react优化工具
 https://github.com/reactopt/reactopt
 
+30. js画序列图
+https://github.com/bramp/js-sequence-diagrams
+
