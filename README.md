@@ -92,3 +92,6 @@ https://github.com/bramp/js-sequence-diagrams
 31. restful接口文档生产工具
 https://github.com/apidoc/apidoc
 
+32. 使用html，js构建桌面应用
+https://github.com/electron/electron
+
