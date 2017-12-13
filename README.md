@@ -95,3 +95,6 @@ https://github.com/apidoc/apidoc
 32. 使用html，js构建桌面应用
 https://github.com/electron/electron
 
+33. 常用js代码片段
+https://github.com/Chalarangelo/30-seconds-of-code
+
