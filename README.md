@@ -98,3 +98,6 @@ https://github.com/electron/electron
 33. 常用js代码片段
 https://github.com/Chalarangelo/30-seconds-of-code
 
+34. pdf预览
+https://github.com/mozilla/pdf.js
+
