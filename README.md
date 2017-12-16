@@ -101,3 +101,6 @@ https://github.com/Chalarangelo/30-seconds-of-code
 34. pdf预览
 https://github.com/mozilla/pdf.js
 
+35. js动画
+https://github.com/juliangarnier/anime
+
