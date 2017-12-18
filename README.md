@@ -104,3 +104,6 @@ https://github.com/mozilla/pdf.js
 35. js动画
 https://github.com/juliangarnier/anime
 
+36. node日志输出，字符串样式工具
+https://github.com/chalk/chalk
+
