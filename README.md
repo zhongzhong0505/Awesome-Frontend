@@ -110,3 +110,5 @@ https://github.com/chalk/chalk
 37. nodejs命令行接口
 https://github.com/tj/commander.js/
 
+38. 代码风格统一工具
+https://github.com/prettier/prettier
