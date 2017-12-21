@@ -124,3 +124,6 @@ https://github.com/haltu/muuri
 
 42. mock服务系统
 https://github.com/easy-mock/easy-mock
+
+43. 页面自动测试，性能优化工具
+https://github.com/GoogleChrome/puppeteer
