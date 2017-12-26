@@ -130,3 +130,6 @@ https://github.com/GoogleChrome/puppeteer
 
 44. rxjs动画展示效果
 https://github.com/moroshko/rxviz
+
+45. rxjs图形化展示效果
+http://rxmarbles.com/
