@@ -127,3 +127,6 @@ https://github.com/easy-mock/easy-mock
 
 43. 页面自动测试，性能优化工具
 https://github.com/GoogleChrome/puppeteer
+
+44. rxjs动画展示效果
+https://github.com/moroshko/rxviz
