@@ -113,7 +113,7 @@ https://github.com/tj/commander.js/
 38. 代码风格统一工具
 https://github.com/prettier/prettier
 
-39. js动画
+39. js几何图形动画
 https://github.com/Popmotion/popmotion
 
 40. 开源项目文档网站管理
