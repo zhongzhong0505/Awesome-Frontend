@@ -136,3 +136,6 @@ http://rxmarbles.com/
 
 46. 浏览器自动化测试框架
 https://github.com/DevExpress/testcafe
+
+47. 网站性能测试，qps等
+https://github.com/alexfernandez/loadtest
