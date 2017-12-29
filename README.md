@@ -133,3 +133,6 @@ https://github.com/moroshko/rxviz
 
 45. rxjs图形化展示效果
 http://rxmarbles.com/
+
+46. 浏览器自动化测试框架
+https://github.com/DevExpress/testcafe
