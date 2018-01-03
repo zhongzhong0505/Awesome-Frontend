@@ -139,3 +139,6 @@ https://github.com/DevExpress/testcafe
 
 47. 网站性能测试，qps等
 https://github.com/alexfernandez/loadtest
+
+48. node机器学习
+https://github.com/PAIR-code/deeplearnjs
