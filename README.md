@@ -145,3 +145,6 @@ https://github.com/PAIR-code/deeplearnjs
 
 49. ts项目文档生成器
 https://github.com/TypeStrong/typedoc
+
+50. 封装了H5本地存储的js库
+https://github.com/localForage/localForage
