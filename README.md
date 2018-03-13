@@ -151,3 +151,6 @@ https://github.com/localForage/localForage
 
 51. nodejs操作mysql的库
 https://github.com/mysqljs/mysql
+
+52. 聚焦页面某一部分的步骤说明插件
+https://github.com/kamranahmedse/driver.js
