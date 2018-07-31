@@ -166,3 +166,6 @@ https://github.com/Chimeejs/chimee
 
 56. react的路由框架
 https://github.com/reach/router
+
+57. 一个在页面顶部展示加载进度的库
+https://github.com/rstacruz/nprogress
