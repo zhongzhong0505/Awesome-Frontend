@@ -169,3 +169,6 @@ https://github.com/reach/router
 
 57. 一个在页面顶部展示加载进度的库
 https://github.com/rstacruz/nprogress
+
+58. canvas图表库
+https://github.com/chartjs/Chart.js
