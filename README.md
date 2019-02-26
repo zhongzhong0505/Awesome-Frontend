@@ -175,3 +175,5 @@ https://github.com/chartjs/Chart.js
 
 59. js语法解析器
 https://github.com/acornjs/acorn
+60. 移动端调试工具
+https://github.com/liriliri/eruda
