@@ -180,3 +180,6 @@ https://github.com/liriliri/eruda
 
 61. 网络代理工具
 https://github.com/avwo/whistle
+
+62: 将ts转换为WebAssembly的一个库
+https://github.com/AssemblyScript/assemblyscript
