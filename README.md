@@ -194,3 +194,6 @@ https://github.com/cujojs/meld
 
 65. react常用hooks
 https://github.com/streamich/react-use
+
+66. 一个项目管理工具-针对于一个项目有多个npm包的情况
+https://github.com/lerna/lerna
