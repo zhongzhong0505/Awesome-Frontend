@@ -203,3 +203,6 @@ https://github.com/tgriesser/knex
 
 68. 在线http请求测试工具
 https://github.com/liyasthomas/postwoman
+
+69. http请求mock工具
+https://github.com/nock/nock
