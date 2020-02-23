@@ -206,3 +206,6 @@ https://github.com/liyasthomas/postwoman
 
 69. http请求mock工具
 https://github.com/nock/nock
+
+70. react项目测试工具
+https://github.com/airbnb/enzyme
