@@ -212,3 +212,6 @@ https://github.com/airbnb/enzyme
 
 71. 中文分词
 https://github.com/yanyiwu/nodejieba
+
+72. 快速搭建博客，网站的
+https://github.com/gatsbyjs/gatsby
