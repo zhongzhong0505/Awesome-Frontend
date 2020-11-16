@@ -1,6 +1,5 @@
 ## Table Content
 1. 捕获页面对比DOM的改变
-
 地址：https://github.com/fouber/page-monitor
 
 2. 错误上报
@@ -8,7 +7,6 @@ https://docs.sentry.io/clients/javascript/
 
 
 3. Lighthouse 是一个开源的自动化工具，用于改进网络应用的质量。
-
 https://github.com/GoogleChrome/lighthouse
 
 4. js数据校验
