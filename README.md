@@ -237,3 +237,6 @@ https://github.com/microsoft/FluidFramework
 
 79. 前端低代码框架
 https://github.com/baidu/amis
+
+80. webassembly实现的markdown解析器
+https://github.com/rsms/markdown-wasm
