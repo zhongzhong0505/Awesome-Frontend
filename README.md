@@ -243,3 +243,7 @@ https://github.com/rsms/markdown-wasm
 
 81. 具有手绘效果的图库
 https://github.com/rough-stuff/rough
+
+82. 一个前端serverless框架
+https://github.com/serverless/serverless
+
