@@ -247,3 +247,6 @@ https://github.com/rough-stuff/rough
 82. 一个前端serverless框架
 https://github.com/serverless/serverless
 
+83. 一个富翁本编辑器，可以快速实现协同能力
+https://github.com/ianstormtaylor/slate
+
