@@ -253,3 +253,6 @@ https://github.com/ianstormtaylor/slate
 84. 一个前端远程调试工具
 https://github.com/liriliri/chii
 
+85. html5 的绘制库，可以自动切换为canvas或者webgl实现
+https://github.com/pixijs/pixijs
+
