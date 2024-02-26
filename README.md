@@ -262,3 +262,6 @@ https://github.com/ts-arch/ts-arch
 87.远程调试
 https://github.com/HuolalaTech/page-spy-web
 
+88. 将 gif 图片绘制到 canvas 画布
+https://github.com/themadcreator/gifler
+
