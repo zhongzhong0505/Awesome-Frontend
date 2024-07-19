@@ -265,3 +265,6 @@ https://github.com/HuolalaTech/page-spy-web
 88. 将 gif 图片绘制到 canvas 画布
 https://github.com/themadcreator/gifler
 
+89. 数学公式的 web 组件
+https://github.com/arnog/mathlive
+
